@@ -1,6 +1,6 @@
-# Reversing Python
+# XOR Binary
 
-- Namespace: picoctf/pthiruma
+- Namespace: picoctf/18739f24
 - ID: XOR Binary
 - Type: custom
 - Category: Binary Exploitation
